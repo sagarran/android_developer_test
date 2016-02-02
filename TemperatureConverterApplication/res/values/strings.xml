@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TemperatureConverterApplication</string>
+    <string name="hello">Welcome To Temperature Converter Application!</string>
+    <string name="hint1">Enter number</string>
+    <string name="ToCelcius">Convert2Celcius</string>
+    <string name="ToFahrenheit">ConverttoFahrenheit</string>
+    <string name="resultLabel">Result: </string>
+    <string name="action_settings">Settings</string>
+
+</resources>
